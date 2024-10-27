@@ -5,6 +5,7 @@ public class AbstractChild extends AbstractionEx1{
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		AbstractChild c = new AbstractChild();
+		
 		c.add();
 		c.display();
 		c.display2();
